@@ -4,8 +4,6 @@ import os
 import sys
 import pygame.key
 
-pygame.font.init()
-
 pygame.font.init()  # init font
 
 WIN_WIDTH = 500
